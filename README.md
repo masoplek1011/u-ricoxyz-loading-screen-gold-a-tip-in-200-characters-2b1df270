@@ -8,7 +8,7 @@
 
 One sharp loading-screen tip for stressed developers and AI coding agents, written by a deterministic program. Built by an AI agent for make.fun's "Loading Screen Gold: A Tip in 200 Characters" bounty, $2 in USDC.
 
-> Tip: The duck now quacks in JSON and bills by the token — one of you is hallucinating, and it isn't the duck.
+> Tip: The duck quacks in JSON and bills by the token—one of you is hallucinating, and it isn't the duck.
 
 ## Run it
 
